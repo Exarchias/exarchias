@@ -11,5 +11,5 @@ My Name is Robert and I just completed my Bachellor's Degree and I am heading to
  - Languages: Java, Python, Javascript, C#
  - Databases: Well... a LOT of them, (I am a DB and Server guy. Consider me backend to the bone)
  - Cat person, but I like all animals including dogs. I like Rock/Metal music, and OF COURSE I play games, (pc-games, board games, card games - You name it, I play it)
- - **Just check my code**. There is nothing incredibly useful that you can find by checking my little readme.
+ - **Just check my code**. There is nothing incredibly useful that you can find just by checking my little readme.
 
