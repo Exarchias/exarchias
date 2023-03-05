@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is ***Robert*** and I just completed my Bachellor's Degree and I am heading towards my Master's Degree. Also, I am working at IKEA, and it feels awesome to work there.
+My Name is ***Robert*** and I just completed my Bachellor's Degree and I am heading towards my Master's Degree.
 
 **A small tip**. If you wish to understand how I work, instead of looking what my zodiac sign is and "how possitively I see myself", why don't you spend a bit of time to check my work and my commits to have a clear picture about me? Just saying... if you are not willing to check my code, then, what are we even doing here?
 
