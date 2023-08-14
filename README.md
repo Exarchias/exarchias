@@ -5,6 +5,7 @@ My Name is ***Robert*** and I am heading towards my Master's Degree.
 **A small tip**. If you wish to understand how I work, instead of looking what my zodiac sign is and "how possitively I see myself", why don't you spend a bit of time to check my work and my commits to have a clear picture about me? Just saying... if you are not willing to check my code, then, what are we even doing here?
 
 ## A short resume: ##
+ - If I receive a running code that I can run it in a dev envirovment, then I can program it, whatever it is.
  - Decided to adopt a competitive attitude and lifestyle. Always in a professional and ethical way, but competitive nevertheless.
  - Worked at IKEA during my Accelerator Programme. It was fun but now is over. 
  - Bachellor's Degree on Software Development, (with the grade 3.83 on the scale of 5).
