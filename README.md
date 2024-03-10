@@ -6,7 +6,6 @@ My Name is ***Robert*** and I am heading towards my Master's Degree.
 
 ## A short resume: ##
  - If I receive a running code that I can run it in a dev envirovment, then I can program it, whatever it is.
- - Decided to adopt a competitive attitude and lifestyle. Always in a professional and ethical way, but competitive nevertheless.
  - Worked at IKEA during my Accelerator Programme. It was fun but now is over. 
  - Bachellor's Degree on Software Development, (with the grade 3.83 on the scale of 5).
  - Healthy activity on Github since 2013
